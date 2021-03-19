@@ -18,7 +18,7 @@ define([
 
     forbiddenDownloadTypes: ['experiment_group', 'feature_group', 'genome_group', 'folder', 'job_result', 'modelfolder'],
 
-    viewableTypes: ['txt', 'html', 'json', 'csv', 'tsv', 'vcf', 'diffexp_experiment',
+    viewableTypes: ['txt', 'html', 'json', 'csv', 'tsv', 'diffexp_experiment',
       'diffexp_expression', 'diffexp_mapping', 'diffexp_sample', 'pdf',
       'diffexp_input_data', 'diffexp_input_metadata', 'svg', 'gif', 'png', 'jpg'],
 
